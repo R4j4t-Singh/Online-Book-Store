@@ -1,2 +1,2 @@
 # Online-Book-Store
-A program that works similiar to online book store.
+A program in c that works like an online book store.
